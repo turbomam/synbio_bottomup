@@ -1,0 +1,4 @@
+element_id	element_name	organism	sequence	notes
+element:1	ampicillin resistance 1	organism:2	seqeunce:1	
+element:2	tetracycline resistance	organism:3	seqeunce:2	
+element:3	ds red	organism:4	seqeunce:3	

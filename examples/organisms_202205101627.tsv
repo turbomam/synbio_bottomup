@@ -1,0 +1,5 @@
+organism_id	organism_name	ncbi_taxon_id	sub_id_designations	notes
+organism:1	E. coli K12			https://www.genome.wisc.edu/resources/strains.htm|implement this as enums for easy selction in DH?
+organism:2	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)			
+organism:3	Bacteroides fragilis			
+organism:4	Discosoma sp.			

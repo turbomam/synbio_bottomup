@@ -1,0 +1,4 @@
+sample_id	sample_name	sample_host_organisms	elements	notes
+sample:1	wt E. coli with ampicillin resistance insertion	organism:1	element:1	
+sample:2	wt E. coli with tetracycline resistance insertion	organism:1	element:2	
+sample:3	wt E. coli with dsred	organism:1	element:3	
